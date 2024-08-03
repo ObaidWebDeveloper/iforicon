@@ -5,7 +5,6 @@
       font-weight: bold;
     }
   </style>
-  <path d="M20,20v60c0,0,0,10,10,10h40c0,0,10,0,10,-10v-50L60,10h-30c0,0,-10,0,-10,10M60,10v20h20" stroke="white" fill="black" />
-  <rect x="18" y="50" height="20" ry="2" width="50" fill="white" />
-  <text x="28" y="66">SVG</text>
+  <path d="M20,20v30h40v20h-40v10c0,0,0,10,10,10h40c0,0,10,0,10,-10v-50h-20v-20h-30c0,0,-10,0,-10,10M63,11v16h16Z" stroke="black" fill="black" />
+  <text x="24" y="66">SVG</text>
 </svg>
