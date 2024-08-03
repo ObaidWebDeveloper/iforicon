@@ -1,10 +1,10 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    text {
-      font-family: 'Roboto', sans-serif;
-      font-weight: bold;
-    }
-  </style>
-  <path d="M20,20v30h40v20h-40v10c0,0,0,10,10,10h40c0,0,10,0,10,-10v-50h-20v-20h-30c0,0,-10,0,-10,10M63,11v16h16Z" stroke="black" fill="black" />
-  <text x="24" y="66">SVG</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <style>
+      text {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 800;
+      }
+    </style>
+    <path d="M0 64C0 28.7 28.7 0 64 0L224 0l0 128c0 17.7 14.3 32 32 32l128 0 0 144-208 0c-35.3 0-64 28.7-64 64l0 144-48 0c-35.3 0-64-28.7-64-64L0 64zm384 64l-128 0L256 0 384 128zM200 352l16 0"/>
+    <text x="150" y="470" font-size="155px">SVG</text>
+  </svg>
