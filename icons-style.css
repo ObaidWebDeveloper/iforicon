@@ -1,11 +1,13 @@
-.svg-file{
+.if-icon{
     display: inline-block;
     line-height: 1em;
     height: 1em;
     width: 1em;
     background-color: currentColor;
-    -webkit-mask: url(svg-file-icon.svg) no-repeat center;
-    mask: url(svg-file-icon.svg)  no-repeat center;
     -webkit-mask-size: contain;
     mask-size: contain;
+}
+.svg-file{
+    -webkit-mask: url(svg-file-icon.svg) no-repeat center;
+    mask: url(svg-file-icon.svg)  no-repeat center;
 }
