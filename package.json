@@ -1,19 +1,14 @@
 {
-  "name": "example-project",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "An example Node.js project",
+  "description": "A brief description of your project",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",  // Adjust as per your testing framework
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "build": "webpack"  // Example build script
+    "build": "echo \"Build script not implemented\""
   },
   "author": "Your Name",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1"  // Example dependency
-  },
-  "devDependencies": {
-    "mocha": "^9.0.0"  // Example dev dependency
-  }
+  "license": "ISC",
+  "dependencies": {}
 }
