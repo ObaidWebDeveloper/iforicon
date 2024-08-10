@@ -17,3 +17,8 @@
     -webkit-mask: url(../../if-icons/xml-file-icon.svg) no-repeat center;
     mask: url(../../if-icons/xml-file-icon.svg)  no-repeat center;
 }
+
+.ific.folder{
+    -webkit-mask: url(../../if-icons/folder-icon.svg) no-repeat center;
+    mask: url(../../if-icons/folder-icon.svg)  no-repeat center;
+}
