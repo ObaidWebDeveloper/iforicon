@@ -1,4 +1,19 @@
-"scripts": {
-  "build": "react-scripts build",  // Example for React app
-  "deploy": "gh-pages -d build"   // Example for deploying to GitHub Pages
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "An example Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",  // Adjust as per your testing framework
+    "start": "node index.js",
+    "build": "webpack"  // Example build script
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"  // Example dependency
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"  // Example dev dependency
+  }
 }
