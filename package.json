@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "react-scripts build",  // Example for React app
+  "deploy": "gh-pages -d build"   // Example for deploying to GitHub Pages
+}
